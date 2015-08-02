@@ -1,6 +1,6 @@
 ## CSS Card Flip
 
-This repo contains my solutions to the following exercise prompt:
+***This repo contains my solutions to the following exercise prompt:***
 
 **Requirements**: Using the starter HTML, CSS, and images, do the following:
 
